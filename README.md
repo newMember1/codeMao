@@ -1,3 +1,3 @@
 # codeMao
-work in codemao
+work in codemao  
 1.reconstruct voxel from mesh data.
